@@ -33,5 +33,5 @@ export const dialogueData = {
   table:
     "This table is where culinary magic happens. Preparing food here is just another creative outlet. Maybe you'll find some recipes alongside the utensils.",
 
-  exit: "Ready to step out into the real world? Adventure awaits beyond this door. But don't forget to save your progress before you go!",
+  exit: "Ready to step out into the real world? Adventure awaits beyond this door. If you really want to leave just close the tab!",
 };
