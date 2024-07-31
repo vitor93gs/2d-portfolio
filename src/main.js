@@ -36,7 +36,7 @@ k.scene("main", async () => {
       k.pos(),
       k.scale(scaleFactor),
       {
-        speed: 250,
+        speed: 170,
         direction: "down",
         isInDialogue: false,
       },
@@ -57,6 +57,8 @@ k.scene("main", async () => {
           if (boundary.name) {
             player.onCollide(boundary.name, () => {
               player.isInDialogue = true;
+              player.move(0, 0);
+              stopAnims();
               displayDialogue(
                 dialogueData[boundary.name],
                 () => (player.isInDialogue = false)
