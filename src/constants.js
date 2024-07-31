@@ -22,7 +22,7 @@ export const dialogueData = {
 
   pc: `My trusty PC, the command center for all my creative endeavors. Currently, it\'s where I delve into the worlds of TypeScript, React, Next.js, Nest.js, Python, and AI research. It\'s my gateway to innovation and creativity. If you are also a technology enthusiast why don't you <a href="https://github.com/vitor93gs" target="_blank">Check out my GitHub</a>!`,
 
-  resume: `This is my desk and on it is my resume. <a href="https://github.com/vitor93gs/2d-portfolio/blob/main/public/Vitor_Santos_CV.pdf" target="_blank">Check it out?</a> Contact me at vitor93gs@gmail.com if you have any interesting job opportunities! You can also find me on <a href="https://www.linkedin.com/in/vitor93gds/" target="_blank">LinkedIn</a>!`,
+  resume: `This is my desk and on it is my resume. <a href="https://github.com/vitor93gs/2d-portfolio/blob/main/public/Vitor_Santos_CV.pdf" target="_blank">Click here to have a look</a>! Contact me at vitor93gs@gmail.com if you have any interesting job opportunities! You can also find me on <a href="https://www.linkedin.com/in/vitor93gds/" target="_blank">LinkedIn</a>!`,
 
   cabinet:
     "A cabinet filled with secrets, or just snacks. You'll never know until you open it! But beware, you might find my secret stash of ideas.",
