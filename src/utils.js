@@ -1,3 +1,10 @@
+export function gameStart(onDisplayEnd) {
+  displayDialogue(
+    "Hi my name is Vitor Santos, I am a Web Developer and Data Scientist, and this is my 2D game portfolio, feel free to move around (clicking or tapping on your phone), explore and learn a bit more about me!",
+    onDisplayEnd
+  );
+}
+
 export function displayDialogue(text, onDisplayEnd) {
   const dialogueUI = document.getElementById("textbox-container");
   const dialogue = document.getElementById("dialogue");
